@@ -11,9 +11,7 @@ Installation
 
 3.Install rmr2
 
-4.start hadoop 
-	$HADOOP_HOME/bin . start-all.sh 
+4.start hadoop : $HADOOP_HOME/bin . start-all.sh 
 	
-5. Execute the script file 
-	./rmr2Poc.sh
+5. Execute the script file : ./rmr2Poc.sh
 
